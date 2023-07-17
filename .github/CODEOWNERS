@@ -55,6 +55,7 @@ yarn.lock                                           @backstage/maintainers @back
 /plugins/events-node                                @backstage/maintainers @pjungermann
 /plugins/explore                                    @backstage/maintainers @backstage/sda-se-reviewers
 /plugins/explore-react                              @backstage/maintainers @backstage/sda-se-reviewers
+/plugins/featurevisor                               @backstage/maintainers @maxgallo
 /plugins/fossa                                      @backstage/maintainers @backstage/sda-se-reviewers
 /plugins/gcalendar                                  @backstage/maintainers @szubster @ptychu @kielosz @alexrybch
 /plugins/git-release-manager                        @backstage/maintainers @erikengervall
